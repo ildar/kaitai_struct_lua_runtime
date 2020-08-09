@@ -1,5 +1,5 @@
-local class = require("class")
-local stringstream = require("string_stream")
+local class = require("kaitai.class")
+local stringstream = require("kaitai.string_stream")
 
 KaitaiStruct = class.class()
 
